@@ -1,0 +1,14 @@
+
+folder: "./resource/data/"
+file: [
+  'public_train_x_ccba_full_hashed.csv',
+  'public_train_x_cdtx0001_full_hashed.csv',
+  'public_train_x_custinfo_full_hashed.csv',
+  'public_train_x_dp_full_hashed.csv',
+  'public_train_x_remit1_full_hashed.csv',
+  'public_x_alert_date.csv',
+  'train_x_alert_date.csv',
+  'train_y_answer.csv',
+  'submission.csv'
+]
+log: './log/overview.log'
